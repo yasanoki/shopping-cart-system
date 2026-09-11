@@ -78,5 +78,10 @@ Data files (`customers.txt`, `products.txt`, `order_history.txt`) are created au
 
 ## Author / 作者
 
-Chuah Yi Xuan, Thong Hui Ting, Ng Shang Ru and Ng Ee Xun — Final-year B.Sc. (Hons) Interactive Software Technology student, TAR UMT.
+- Chuah Yi Xuan
+- Thong Hui Ting
+- Ng Shang Ru
+- Ng Ee Xun
+
+Final-year B.Sc. (Hons) Interactive Software Technology students, TAR UMT.
 计算机科学（互动软件技术）荣誉学士，终末年学生，拉曼理工大学。
